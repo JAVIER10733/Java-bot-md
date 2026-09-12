@@ -414,7 +414,6 @@ El bot puede manejar cientos de grupos sin problemas, siempre que el servidor te
 | Plataforma | Enlace | Propósito |
 |:---|:---|:---|
 | 📢 **Canal de WhatsApp** | [Unirse](https://whatsapp.com/channel/0029VbDr7ai0bIdqssoHWJ0z) | Actualizaciones, noticias y versiones beta |
-
 | 🐛 **Reportar Bugs** | [GitHub Issues](https://github.com/JAVIER10733/Java-bot-Md/issues) | Reporte formal de errores y solicitudes |
 
 </div>
