@@ -5,7 +5,7 @@ const settings = {
   botName: process.env.BOT_NAME || 'Java Bot MD',
   author: process.env.BOT_AUTHOR || 'Java Bot Team',
   botOwner: process.env.BOT_OWNER || 'Professor',
-  ownerNumber: process.env.OWNER_NUMBER || '5930979832977',
+  ownerNumber: process.env.OWNER_NUMBER || '',
   giphyApiKey: process.env.GIPHY_API_KEY || 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: process.env.COMMAND_MODE || 'public',
   maxStoreMessages: parseInt(process.env.MAX_STORE_MESSAGES, 10) || 20,
