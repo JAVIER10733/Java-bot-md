@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Versi%C3%B3n-3.0.0-blue?style=for-the-badge" alt="Version">
   <img src="https://img.shields.io/badge/Platform-Multi--Device-ff69b4?style=for-the-badge" alt="Platform">
   <br><br>
-  <img src="https://github.com/mruniquehacker/Knightbot-MD/blob/main/assets/bot_image.jpg" alt="Java Bot MD Banner" width="600" style="border-radius: 20px; box-shadow: 0 0 30px rgba(0,255,136,0.3);">
+  <img src="https://github.com/JAVIER10733/Java-bot-Md/blob/main/assets/bot_image.jpg" alt="Java Bot MD Banner" width="600" style="border-radius: 20px; box-shadow: 0 0 30px rgba(0,255,136,0.3);">
 </div>
 
 ---
