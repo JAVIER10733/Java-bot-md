@@ -413,9 +413,8 @@ El bot puede manejar cientos de grupos sin problemas, siempre que el servidor te
 
 | Plataforma | Enlace | Propósito |
 |:---|:---|:---|
-| 📢 **Canal de WhatsApp** | [Unirse](https://whatsapp.com/channel/0029Va90zAnIHphOuO8Msp3A) | Actualizaciones, noticias y versiones beta |
-| 💬 **Grupo de Telegram** | [Unirse](https://t.me/+3QhFUZHx-nhhZmY1) | Soporte técnico y comunidad de usuarios |
-| 🎥 **Canal de YouTube** | [Suscribirse](https://youtube.com/@mr_unique_hacker) | Tutoriales de instalación y configuración |
+| 📢 **Canal de WhatsApp** | [Unirse](https://whatsapp.com/channel/0029VbDr7ai0bIdqssoHWJ0z) | Actualizaciones, noticias y versiones beta |
+
 | 🐛 **Reportar Bugs** | [GitHub Issues](https://github.com/JAVIER10733/Java-bot-Md/issues) | Reporte formal de errores y solicitudes |
 
 </div>
