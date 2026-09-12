@@ -481,6 +481,5 @@ Este proyecto está protegido bajo la [Licencia MIT](https://opensource.org/lice
 
 <br>
 
-<img src="https://www.pinterest.com/pin/2181499816157853/" alt="Footer SVG" />
 
 </div>
