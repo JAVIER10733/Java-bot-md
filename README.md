@@ -481,6 +481,7 @@ Este proyecto está protegido bajo la [Licencia MIT](https://opensource.org/lice
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Gracias+por+usar+Java+Bot+MD;¡Disfruta+la+experiencia+al+m%C3%A1ximo!%F0%9F%9A%80" alt="Footer SVG" />
+<img src="https://readme-typing-svg.demolab.com
+font=Fira+Code&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Gracias+por+usar+Java+Bot+MD;¡Disfruta+la+experiencia+al+m%C3%A1ximo!%F0%9F%9A%80" alt="Footer SVG" />
 
 </div>
